@@ -214,6 +214,7 @@ export const ALL_THEME = [
   'abyss',
   'cupcake',
   'dark-daisyui5',
+  'autumn'
 ]
 
 export const DEFAULT_THEME = {
